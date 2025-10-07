@@ -1,0 +1,32 @@
+.closing-section {
+  background: linear-gradient(135deg, var(--blush-pink), var(--champagne));
+  padding: 100px 0;
+  text-align: center;
+  position: relative;
+}
+
+.closing-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.closing-content h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: var(--dark-text);
+}
+
+.closing-content p {
+  font-size: 1.2rem;
+  color: var(--light-text);
+}
+
+@media screen and (max-width: 768px) {
+  .closing-content h2 {
+    font-size: 2rem;
+  }
+  
+  .closing-content p {
+    font-size: 1rem;
+  }
+}
