@@ -1,0 +1,71 @@
+.surprise-section {
+  background-color: var(--white);
+  padding: 100px 0;
+  text-align: center;
+  position: relative;
+  min-height: 500px;
+}
+
+.surprise-content h2 {
+  margin-bottom: 40px;
+  color: var(--dark-text);
+}
+
+.surprise-btn {
+  font-size: 1.2rem;
+  padding: 15px 40px;
+}
+
+.surprise-message {
+  max-width: 600px;
+  margin: 40px auto 0;
+  padding: 40px;
+  position: relative;
+  overflow: hidden;
+}
+
+.surprise-message h3 {
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  color: var(--dark-text);
+}
+
+.surprise-message p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.hearts-container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  overflow: visible;
+}
+
+.floating-heart {
+  position: absolute;
+  font-size: 1.5rem;
+  z-index: 10;
+  left: 45%;
+  top: 80%;
+  transform: translate(-50%, -50%);
+  opacity: 0.6;
+}
+
+@media screen and (max-width: 768px) {
+  .surprise-btn {
+    font-size: 1rem;
+    padding: 12px 30px;
+  }
+  
+  .surprise-message h3 {
+    font-size: 1.5rem;
+  }
+  
+  .surprise-message p {
+    font-size: 1rem;
+  }
+}
