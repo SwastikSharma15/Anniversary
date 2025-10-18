@@ -1,16 +1,47 @@
-# React + Vite
+# 25th Anniversary Celebration Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A heartfelt digital celebration created for my parents' 25th wedding anniversary. This interactive website is a labor of love, designed to capture and share precious memories of their beautiful journey together.
 
-Currently, two official plugins are available:
+## 💝 About This Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This website is a personal tribute to commemorate 25 years of my parents' love, dedication, and togetherness. It features:
 
-## React Compiler
+### ✨ Special Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Welcome Section**
+  - Sparkling particle animations
+  - Anniversary welcome message
+  - Golden celebration theme
 
-## Expanding the ESLint configuration
+- **Memory Timeline**
+  - Interactive 3D photo gallery
+  - Special moments from their journey
+  - Beautiful transitions and effects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Photo Collections**
+  - Family photo galleries
+  - Heartwarming captions
+  - Interactive viewing experience
+
+- **Personal Messages**
+  - Heartfelt anniversary wishes
+  - Animated text reveals
+  - Special surprise elements
+
+### 🎨 Design Elements
+
+- Elegant gold and champagne color scheme
+- Smooth animations and transitions
+- Responsive design for all devices
+- Interactive elements and surprises
+
+## 💫 Made With Love Using
+
+- React
+- Framer Motion
+- Particle Effects
+- Custom Animations
+
+---
+Created with ❤️ for Mom & Dad
+Anniversary Date: October 2025
